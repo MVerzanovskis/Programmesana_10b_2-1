@@ -18,8 +18,8 @@ Siïiòð Deniss
 Skodorovs Vlads
 9 	
 Smirnovs Volodars
-10 	
-Verþanovskis Marks
+print(2*2) 	
+#Verzanovskis Marks
 11 	
 Volkova Veronika
 12 	
